@@ -26,7 +26,7 @@ The techniques we use:
 
 ### The dataset:
 
-<img src="https://user-images.githubusercontent.com/84439960/186622912-396d4a1b-ed6b-488f-950f-7b1a6c4048be.jpg" width="400" height="400" />
+<img src="https://user-images.githubusercontent.com/84439960/186622912-396d4a1b-ed6b-488f-950f-7b1a6c4048be.jpg" width="700" height="400" />
 
 
 I love superheros ! especially I am a big Marvel fan. So I want to do something interesting for language models and I picked up  the superhero dataset from kaggle. You can do many things with this dataset! But here I am trying to use it for text classification.
